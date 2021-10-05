@@ -5,3 +5,4 @@ Where to Start?
 
     1. Using Notepad
     2. Data Types - Variables and Literals
+    3. Operator and Expressions
