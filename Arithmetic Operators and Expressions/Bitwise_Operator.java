@@ -5,7 +5,7 @@ public class Bitwise_Operator {
         int x=10,y=6,z,a,b;
         
         z = x & y;  // AND
-        a = x | y;
+        a = x | y;  // OR
         b = x ^ y;
         
         System.out.println(z);
