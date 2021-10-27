@@ -6,7 +6,7 @@ public class Bitwise_Operator {
         
         z = x & y;  // AND
         a = x | y;  // OR
-        b = x ^ y;
+        b = x ^ y;  // XOR
         
         System.out.println(z);
         System.out.println(a);
