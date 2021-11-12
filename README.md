@@ -8,3 +8,4 @@ Where to Start?
     3. Arithmetic Operator and Expressions
     4. String Class and Printing
     5. Conditional Statements
+    6. Loops
