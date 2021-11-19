@@ -9,4 +9,3 @@ Where to Start?
     4. String Class and Printing
     5. Conditional Statements
     6. Loops
-    7. Arrays
