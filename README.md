@@ -1,5 +1,5 @@
 # Java
-Java Programs Basic to Advanced Level
+Java Programs Basics to Advanced Level
 
 Where to Start?
 
