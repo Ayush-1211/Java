@@ -10,3 +10,4 @@ Where to Start?
     5. Conditional Statements
     6. Loops
     7. Arrays
+    8. Methods
