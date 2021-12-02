@@ -11,3 +11,4 @@ Where to Start?
     6. Loops
     7. Arrays
     8. Methods
+    9. Object-Oriented Programming
