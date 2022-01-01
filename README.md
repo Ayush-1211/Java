@@ -12,3 +12,4 @@ Where to Start?
     7. Arrays
     8. Methods
     9. Object-Oriented Programming
+    10. Inheritance
